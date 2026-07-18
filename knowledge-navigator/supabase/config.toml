@@ -1,0 +1,4 @@
+project_id = "bbrnvdqbyvvhhgjmymda"
+
+[functions.knowledge-navigator]
+verify_jwt = false
